@@ -3,6 +3,7 @@
 
 
 **PROJECT OVERVIEW**
+
 Comprehensive analysis of 6 months (January - June 2025) of sales data for D-Lite Electronics, a Nigerian electronics retailer operating across 4 regions (North, South, East, West). 
 This project identifies critical business risks and provides data-driven recommendations for revenue growth and risk mitigation.
 
@@ -58,7 +59,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 **Business Risk:** If Laptop A15 faces supply chain disruption, competitive pressure, or demand decline, business could lose 44% of revenue overnight.
 
 **Strategic Implication:** Urgent need for product diversification to reduce business vulnerability.
-
+---
 3. CUSTOMER CONCENTRATION RISK
 
 **Finding:** Over-reliance on small number of large customers creates significant revenue vulnerability.
@@ -71,6 +72,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 ---
 
 4. SALES REPRESENTATIVE PERFORMANCE GAP
+
 **Finding:** Extreme variation in individual sales rep performance indicates training opportunity or resource misallocation.
 
 **DATA:**
@@ -84,7 +86,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 
 **Recommended Action**
 Identify Peter Obi's successful strategies and replicate across team through training and mentorship.
-
+---
 5. SEVERE REVENUE VOLATILITY
 
 **Finding:** Unexplained extreme month-to-month revenue fluctuations indicating potential operational or market ISSUES.
