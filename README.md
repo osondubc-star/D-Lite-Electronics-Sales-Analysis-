@@ -59,8 +59,10 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 
 **Business Risk:** If Laptop A15 faces supply chain disruption, competitive pressure, or demand decline, business could lose 44% of revenue overnight.
 
-**Strategic Implication:** Urgent need for product diversification to reduce business vulnerability.
+**Strategic Implication:**  Urgent need for product diversification to reduce business vulnerability.
+
 ---
+
 3. CUSTOMER CONCENTRATION RISK
 
 **Finding:** Over-reliance on small number of large customers creates significant revenue vulnerability.
