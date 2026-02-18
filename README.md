@@ -26,6 +26,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 
 **KEY FINDINGS**
 1. REGIONAL PERFORMANCE DISPARITY
+
 **Findings:** Significant revenue concentration in West region with North region critically underperforming.
 
 **DATA:**
@@ -46,6 +47,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 ---
 
 2. PRODUCT CONCENTRATION RISK
+
 **Finding:** Dangerous dependency on single product line (Laptop A15) for nearly half of total revenue.
 
 **DATA:**
@@ -56,9 +58,9 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 **Business Risk:** If Laptop A15 faces supply chain disruption, competitive pressure, or demand decline, business could lose 44% of revenue overnight.
 
 **Strategic Implication:** Urgent need for product diversification to reduce business vulnerability.
----
 
 3. CUSTOMER CONCENTRATION RISK
+
 **Finding:** Over-reliance on small number of large customers creates significant revenue vulnerability.
 **Data:**
 - **Top 5 customers:** 67% of total revenue
@@ -84,6 +86,7 @@ D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M i
 Identify Peter Obi's successful strategies and replicate across team through training and mentorship.
 
 5. SEVERE REVENUE VOLATILITY
+
 **Finding:** Unexplained extreme month-to-month revenue fluctuations indicating potential operational or market ISSUES.
 
 **DATA:**
