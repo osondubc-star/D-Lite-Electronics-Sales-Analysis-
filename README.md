@@ -9,6 +9,7 @@ This project identifies critical business risks and provides data-driven recomme
 
 
 **BUSINESS CONTEXT:**  
+
 D-Lite Electronics is a mid-sized Nigerian electronics retailer with ₦302.7M in semi-annual revenue, serving both B2B and retail customers across multiple regions.
 
 **KEY METRICS**
@@ -96,9 +97,10 @@ Identify Peter Obi's successful strategies and replicate across team through tra
 - **Lowest month (March):** ₦18.9M
 - **Month-over-month drop:** 85% (Feb to March)
 - **Average monthly revenue:** ₦50.4M
-**Business Concern:** March revenue crash requires immediate investigation.
 
-  Possible causes:
+**Business Concern:**  March revenue crash requires immediate investigation.
+
+Possible causes:
 - Major customer order timing
 - Seasonal effect
 - Supply chain disruption
